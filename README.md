@@ -15,8 +15,7 @@ npm i  (* install dependency *)
 npx quartz create  
 npx quartz build  
 
-(* github upload *)
-
+(* github upload setting *)
 git remote rm origin  
 git remote add origin https://github.com/jinhong-park/jinhong-park-blog.git  
 
@@ -25,4 +24,5 @@ If it doesn't work,
 git remote rm origin  
 git remote add origin git@github.com:jinhong-park/jinhong-park-blog.git  
 
+(* upload *)  
 npx quartz sync --no-pull  
