@@ -9,20 +9,20 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-brew install node
-git clone https://github.com/jackyzha0/quartz.git
-npm i  (install dependency)
-npx quartz create
-npx quartz build
+brew install node  
+git clone https://github.com/jackyzha0/quartz.git  
+npm i  (* install dependency *)  
+npx quartz create  
+npx quartz build  
 
 (* github upload *)
 
-git remote rm origin
-git remote add origin https://github.com/jinhong-park/jinhong-park-blog.git
+git remote rm origin  
+git remote add origin https://github.com/jinhong-park/jinhong-park-blog.git  
 
-If it doesn't work, 
+If it doesn't work,   
 
-git remote rm origin
-git remote add origin git@github.com:jinhong-park/jinhong-park-blog.git
+git remote rm origin  
+git remote add origin git@github.com:jinhong-park/jinhong-park-blog.git  
 
-npx quartz sync --no-pull
+npx quartz sync --no-pull  
