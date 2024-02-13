@@ -1,6 +1,6 @@
 ---
-title: '"Introduction"'
+title: Introduction
 draft: false
-tags: []
+tags:
 ---
  The introduction goes here.
