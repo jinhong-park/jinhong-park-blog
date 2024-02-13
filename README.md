@@ -26,3 +26,25 @@ git remote add origin git@github.com:jinhong-park/jinhong-park-blog.git
 
 (* upload *)  
 npx quartz sync --no-pull  
+
+
+(* obsidian setting *)
+
+* Community plugin
+
+Longform  
+Templates  
+
+
+* Appearance
+
+Typomagical
+
+
+(* github page setting *)
+
+github - repository - Settings - Pages - Source - Github Actions 
+
+
+
+
