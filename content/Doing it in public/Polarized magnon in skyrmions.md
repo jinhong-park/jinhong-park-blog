@@ -1,4 +1,5 @@
 ---
+"date:": 2024-02-13
 title: Polarized magnon in skyrmions
 draft: false
 tags:
