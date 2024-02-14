@@ -1,5 +1,5 @@
 ---
-data: 2024-02-14
+date: 2024-02-14
 title: CAR in altermagnet
 draft: false
 tags:

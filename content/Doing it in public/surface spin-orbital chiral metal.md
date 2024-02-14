@@ -1,5 +1,5 @@
 ---
-data: 2024-02-13
+date: 2024-02-13
 title: surface spin-orbital chiral metal
 draft: false
 tags:
