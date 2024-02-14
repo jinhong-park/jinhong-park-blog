@@ -3,6 +3,7 @@ data: 2024-02-14
 title: CAR in altermagnet
 draft: false
 tags:
+  - altermagnet
 ---
 Cross Andreev reflection in altermagnet 에 대해서 어떤식으로 계산하면 되는지 자세히 기술함.
 
