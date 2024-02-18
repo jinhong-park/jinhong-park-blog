@@ -1,7 +1,5 @@
 Year: {{date | format ("YYYY-MM-DD")}}  
-tags: note/source  
 Authors: {{authors}}  
-
 
 Title: {{title}}  
 URL: {{url}}  

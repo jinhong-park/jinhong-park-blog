@@ -1,5 +1,7 @@
 Year: 2024-02-16  
+tags: note/source  
 Authors: Michael Schirber  
+
 
 Title: Voltage Control over Magnons  
 URL: https://physics.aps.org/articles/v17/29  
