@@ -50,3 +50,17 @@ github - repository - Settings - Pages - Source - Github Actions
 (* homepage title *)
 
 pageTitle in quartz.config.ts
+
+
+
+(* pandoc and zotero setting *)
+
+https://www.youtube.com/watch?v=zEYp0BJL7MU
+
+
+
+(* zotero part*)
+
+go to https://retorque.re/zotero-better-bibtex/installation/index.html
+
+install latest version 
