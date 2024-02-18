@@ -1,16 +1,17 @@
-Year: {{date | format ("YYYY-MM-DD")}}
-tags: note/source
-Authors: {{authors}}
+Year: {{date | format ("YYYY-MM-DD")}}  
+tags: note/source  
+Authors: {{authors}}  
 
 
-Title: {{title}}
-URL: {{url}}
+Title: {{title}}  
+URL: {{url}}  
 
 
 {% for annotation in annotations %} 
 {%- if annotation.annotatedText -%}
 == annotatedText ==
-{{annotation.annotatedText}}"([side {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})) {%- endif %} 
+{{annotation.annotatedText}}
+{%- endif %} 
 
 {%- if annotation.imageRelativePath -%} 
 == image ==
